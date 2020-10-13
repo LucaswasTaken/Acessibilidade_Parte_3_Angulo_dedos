@@ -4,7 +4,7 @@
 Esse repositorio contem uma implementação em html+javascript que faz uso do Handpose.
 A principal solução, um arquivo HTML com Javascript embarcado para detecção de mão e calculo de angulo entre o vetor que une a palma da mão e o dedo indicador e o vetor que une a palma da mão e o dedão. O cálculo desse ângulo é realizado utilizando o método do produto escalar por meio de um código Javascript embarcado. Esse código "HTML+Javascript" se encontra na pasta "/src". Essa solução pode rodar diretamente do navegador e pode ser modificada pelo código interno Javascript para resolver outros problemas.
 
-![alt Text](https://miro.medium.com/max/750/1*ZxMjp3RR6NS3r_0XwgJ58Q.gif)
+![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/image.gif)
 
 ![alt text](https://miro.medium.com/max/709/1*UwH0y7rYQY8PNqbq2BvghA.png)
 
